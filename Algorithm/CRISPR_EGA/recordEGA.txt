@@ -1,0 +1,22 @@
+Optimal hyperparameter configuration: {'alpha': 3, 'beta': 0, 'tournamentSize': 1}
+The optimal 20 parameter combinations:
+{'crossover': 0.8, 'mutation': 0.05, 'tournamentSize': 3}
+{'crossover': 0.8, 'mutation': 0.1, 'tournamentSize': 2}
+{'crossover': 0.9, 'mutation': 0.1, 'tournamentSize': 4}
+{'crossover': 0.7, 'mutation': 0.05, 'tournamentSize': 4}
+{'crossover': 0.5, 'mutation': 0.05, 'tournamentSize': 4}
+{'crossover': 0.8, 'mutation': 0.1, 'tournamentSize': 2}
+{'crossover': 0.7, 'mutation': 0.1, 'tournamentSize': 4}
+{'crossover': 0.7, 'mutation': 0.05, 'tournamentSize': 2}
+{'crossover': 0.8, 'mutation': 0.1, 'tournamentSize': 3}
+{'crossover': 0.8, 'mutation': 0.1, 'tournamentSize': 4}
+{'crossover': 0.5, 'mutation': 0.15, 'tournamentSize': 4}
+{'crossover': 0.9, 'mutation': 0.1, 'tournamentSize': 2}
+{'crossover': 0.7, 'mutation': 0.3, 'tournamentSize': 3}
+{'crossover': 0.7, 'mutation': 0.15, 'tournamentSize': 2}
+{'crossover': 0.5, 'mutation': 0.15, 'tournamentSize': 2}
+{'crossover': 0.6, 'mutation': 0.25, 'tournamentSize': 4}
+{'crossover': 0.7, 'mutation': 0.3, 'tournamentSize': 4}
+{'crossover': 0.5, 'mutation': 0.2, 'tournamentSize': 2}
+{'crossover': 0.9, 'mutation': 0.3, 'tournamentSize': 3}
+{'crossover': 0.9, 'mutation': 0.3, 'tournamentSize': 4}

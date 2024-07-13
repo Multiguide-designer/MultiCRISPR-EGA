@@ -1,0 +1,24 @@
+Optimal hyperparameter configuration: {'cognitive_parameter': 1, 'inertia_weight': 2, 'social_parameter': 1}
+The optimal 20 parameter combinations:
+{'cognitive_parameter': 1.6, 'inertia_weight': 1.8, 'social_parameter': 1.6}
+{'cognitive_parameter': 2.5, 'inertia_weight': 1.8, 'social_parameter': 1.6}
+{'cognitive_parameter': 2.0, 'inertia_weight': 2.1, 'social_parameter': 2.0}
+{'cognitive_parameter': 2.5, 'inertia_weight': 1.8, 'social_parameter': 1.2}
+{'cognitive_parameter': 1.6, 'inertia_weight': 1.2, 'social_parameter': 1.2}
+{'cognitive_parameter': 2.5, 'inertia_weight': 1.2, 'social_parameter': 2.0}
+{'cognitive_parameter': 2.5, 'inertia_weight': 1.8, 'social_parameter': 2.5}
+{'cognitive_parameter': 2.0, 'inertia_weight': 1.8, 'social_parameter': 2.5}
+{'cognitive_parameter': 2.0, 'inertia_weight': 2.1, 'social_parameter': 1.2}
+{'cognitive_parameter': 2.0, 'inertia_weight': 1.5, 'social_parameter': 2.0}
+{'cognitive_parameter': 2.5, 'inertia_weight': 1.8, 'social_parameter': 1.6}
+{'cognitive_parameter': 1.6, 'inertia_weight': 2.1, 'social_parameter': 2.0}
+{'cognitive_parameter': 1.2, 'inertia_weight': 2.1, 'social_parameter': 2.0}
+{'cognitive_parameter': 2.5, 'inertia_weight': 1.8, 'social_parameter': 2.0}
+{'cognitive_parameter': 2.0, 'inertia_weight': 2.1, 'social_parameter': 1.6}
+{'cognitive_parameter': 1.2, 'inertia_weight': 2.1, 'social_parameter': 1.2}
+{'cognitive_parameter': 1.2, 'inertia_weight': 2.1, 'social_parameter': 2.5}
+{'cognitive_parameter': 1.2, 'inertia_weight': 2.1, 'social_parameter': 2.5}
+{'cognitive_parameter': 1.2, 'inertia_weight': 1.2, 'social_parameter': 1.6}
+{'cognitive_parameter': 2.0, 'inertia_weight': 1.5, 'social_parameter': 2.5}
+
+

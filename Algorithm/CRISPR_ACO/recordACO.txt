@@ -1,0 +1,22 @@
+Optimal hyperparameter configuration: {'Global_evaporationRate': 3, 'Single_evaporationRate': 6, 'alpha': 3, 'beta': 2}
+The optimal 20 parameter combinations:
+{'Global_evaporationRate': 0.4, 'Single_evaporationRate': 0.7, 'alpha': 2.0, 'beta': 1.5}
+{'Global_evaporationRate': 0.2, 'Single_evaporationRate': 0.3, 'alpha': 2.5, 'beta': 1.0}
+{'Global_evaporationRate': 0.4, 'Single_evaporationRate': 0.4, 'alpha': 3.0, 'beta': 3.0}
+{'Global_evaporationRate': 0.2, 'Single_evaporationRate': 0.7, 'alpha': 1.0, 'beta': 0.5}
+{'Global_evaporationRate': 0.1, 'Single_evaporationRate': 0.4, 'alpha': 1.0, 'beta': 0.5}
+{'Global_evaporationRate': 0.1, 'Single_evaporationRate': 0.2, 'alpha': 2.0, 'beta': 0.5}
+{'Global_evaporationRate': 0.5, 'Single_evaporationRate': 0.7, 'alpha': 2.0, 'beta': 2.5}
+{'Global_evaporationRate': 0.2, 'Single_evaporationRate': 0.4, 'alpha': 1.5, 'beta': 1.5}
+{'Global_evaporationRate': 0.4, 'Single_evaporationRate': 0.4, 'alpha': 1.0, 'beta': 3.0}
+{'Global_evaporationRate': 0.3, 'Single_evaporationRate': 0.3, 'alpha': 3.0, 'beta': 0.5}
+{'Global_evaporationRate': 0.1, 'Single_evaporationRate': 0.1, 'alpha': 1.0, 'beta': 0.5}
+{'Global_evaporationRate': 0.5, 'Single_evaporationRate': 0.4, 'alpha': 1.5, 'beta': 2.0}
+{'Global_evaporationRate': 0.1, 'Single_evaporationRate': 0.3, 'alpha': 2.5, 'beta': 2.5}
+{'Global_evaporationRate': 0.1, 'Single_evaporationRate': 0.6, 'alpha': 1.5, 'beta': 2.0}
+{'Global_evaporationRate': 0.3, 'Single_evaporationRate': 0.2, 'alpha': 1.0, 'beta': 2.5}
+{'Global_evaporationRate': 0.2, 'Single_evaporationRate': 0.3, 'alpha': 1.5, 'beta': 2.5}
+{'Global_evaporationRate': 0.1, 'Single_evaporationRate': 0.8, 'alpha': 0.5, 'beta': 2.5}
+{'Global_evaporationRate': 0.5, 'Single_evaporationRate': 0.8, 'alpha': 0.5, 'beta': 2.0}
+{'Global_evaporationRate': 0.4, 'Single_evaporationRate': 0.8, 'alpha': 2.0, 'beta': 3.0}
+{'Global_evaporationRate': 0.1, 'Single_evaporationRate': 0.5, 'alpha': 0.5, 'beta': 2.5}

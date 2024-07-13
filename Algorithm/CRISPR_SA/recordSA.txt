@@ -1,0 +1,22 @@
+Optimal hyperparameter configuration: {'cooling_rate': 2}
+The optimal 20 parameter combinations:
+{'cooling_rate': 0.3}
+{'cooling_rate': 0.3}
+{'cooling_rate': 0.3}
+{'cooling_rate': 0.3}
+{'cooling_rate': 0.3}
+{'cooling_rate': 0.3}
+{'cooling_rate': 0.2}
+{'cooling_rate': 0.2}
+{'cooling_rate': 0.5}
+{'cooling_rate': 0.5}
+{'cooling_rate': 0.7}
+{'cooling_rate': 0.7}
+{'cooling_rate': 0.8}
+{'cooling_rate': 0.8}
+{'cooling_rate': 0.8}
+{'cooling_rate': 0.1}
+{'cooling_rate': 0.1}
+{'cooling_rate': 0.4}
+{'cooling_rate': 0.4}
+{'cooling_rate': 0.9}
